@@ -106,6 +106,6 @@ void PrintArray(int[,] array)
 }
 ArrayRandom(Massiv);
 PrintArray(Massiv);
-System.Console.WriteLine("_________________________");
+System.Console.WriteLine("++++++++");
 int minSumIndexRow = MinSumIndexRow(Massiv);
 Console.WriteLine("Min sum in row with index: " + minSumIndexRow);
