@@ -1,0 +1,15 @@
+C:\Git\Projects\Sem8\Task58\bin\Debug\net6.0\Task58.exe
+C:\Git\Projects\Sem8\Task58\bin\Debug\net6.0\Task58.deps.json
+C:\Git\Projects\Sem8\Task58\bin\Debug\net6.0\Task58.runtimeconfig.json
+C:\Git\Projects\Sem8\Task58\bin\Debug\net6.0\Task58.dll
+C:\Git\Projects\Sem8\Task58\bin\Debug\net6.0\Task58.pdb
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\Task58.csproj.AssemblyReference.cache
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\Task58.AssemblyInfoInputs.cache
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\Task58.AssemblyInfo.cs
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\Task58.csproj.CoreCompileInputs.cache
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\Task58.dll
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\refint\Task58.dll
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\Task58.pdb
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\Task58.genruntimeconfig.cache
+C:\Git\Projects\Sem8\Task58\obj\Debug\net6.0\ref\Task58.dll
